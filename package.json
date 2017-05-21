@@ -1,0 +1,10 @@
+{
+  "name": "bucklescript-uchar",
+  "version": "0.0.1",
+  "repository": "https://github.com/wokalski/bucklescript-uchar.git",
+  "author": "Wojtek Czekalski <me@wczekalski.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "bs-platform": ""
+  }
+}

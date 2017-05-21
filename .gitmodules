@@ -1,0 +1,3 @@
+[submodule "uchar"]
+	path = uchar
+	url = https://github.com/ocaml/uchar.git

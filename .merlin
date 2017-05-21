@@ -1,0 +1,9 @@
+####{BSB GENERATED: NO EDIT
+FLG -ppx /Users/wczekalski/Documents/Work/Projects/bucklescript-uchar/node_modules/bs-platform/bin/reactjs_jsx_ppx.exe
+FLG -ppx /Users/wczekalski/Documents/Work/Projects/bucklescript-uchar/node_modules/bs-platform/bin/bsppx.exe
+S /Users/wczekalski/Documents/Work/Projects/bucklescript-uchar/node_modules/bs-platform/lib/ocaml
+B /Users/wczekalski/Documents/Work/Projects/bucklescript-uchar/node_modules/bs-platform/lib/ocaml
+FLG -nostdlib -no-alias-deps -color always -w -40+6+7+27+32..39+44+45
+S uchar/src
+B lib/bs/uchar/src
+####BSB GENERATED: NO EDIT}

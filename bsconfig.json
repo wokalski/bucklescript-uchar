@@ -1,0 +1,6 @@
+{
+    "name": "bucklescript-uchar",
+    "sources": [{
+        "dir": "uchar/src",
+    }]
+}
